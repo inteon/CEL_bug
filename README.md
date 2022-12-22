@@ -10,3 +10,8 @@ this is the CEL rule:
 The sent JSON is valid and works most of the time.
 
 K8S version: v1.25.0
+
+## HOWTO reproduce:
+```
+$ go test
+```
